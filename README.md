@@ -7,3 +7,4 @@ Transfer Learning differs from traditional Machine Learning in that it is the us
 This repository contains various use cases where we apply transfer learning techniques to solve a particular business problem.
 
 Refer [Keras Applications](https://keras.io/api/applications/) to know about all the available Transfer Learning techniques.
+You can also checkout my [kaggle page](https://www.kaggle.com/nageshsingh) to dive deeper.
